@@ -1,3 +1,6 @@
-# Timyoshi.github.io
+#Timothy W. Kilmer Jr.
 #
-#Tim's Site
+#Electrical Engineering : Clarkson University
+#
+#Physics 		: State University of New York at Oneonta
+
